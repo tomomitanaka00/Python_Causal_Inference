@@ -1,4 +1,5 @@
 # Example 14.2 in Woodridge "Introductory Econometrics: A Modern Approach"
+# within transformation approach 
 
 import wooldridge as woo
 import pandas as pd
